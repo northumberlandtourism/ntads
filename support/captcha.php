@@ -13,6 +13,7 @@
 
     vim: expandtab sw=4 ts=4 sts=4:
     $Id: $
+	1123
 **********************************************************************/
 require_once('main.inc.php');
 require(INCLUDE_DIR.'class.captcha.php');
